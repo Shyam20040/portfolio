@@ -1,0 +1,12 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" fill="#0E1225"/>
+  <rect x="24" y="24" width="592" height="312" rx="20" fill="url(#g)"/>
+  <text x="60" y="170" fill="#F4F8FF" font-family="Arial, sans-serif" font-size="38" font-weight="700">COURSE SALES PAGE</text>
+  <text x="60" y="215" fill="#DDE7FF" font-family="Arial, sans-serif" font-size="20">Persuasive layout for course purchases</text>
+  <defs>
+    <linearGradient id="g" x1="24" y1="24" x2="616" y2="336" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+  </defs>
+</svg>
